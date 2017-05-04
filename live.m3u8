@@ -1,525 +1,78 @@
+
 #EXTM3U
-#EXTINF:-1,TR: TLC
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/24.ts
-#EXTINF:-1,TR: BEYAZ TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/25.ts
-#EXTINF:-1,TR: A HABER UHD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/31.ts
-#EXTINF:-1,TR: A NEWS HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/32.ts
-#EXTINF:-1,TR: A SPOR HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/33.ts
-#EXTINF:-1,TR: A2 HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/35.ts
-#EXTINF:-1,TR: A9 TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/36.ts
-#EXTINF:-1,TR: ATV HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/39.ts
-#EXTINF:-1,TR: BLOOMBERGHT HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/43.ts
-#EXTINF:-1,TR: CARTOON nETWORK
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/44.ts
-#EXTINF:-1,TR: CNN TÜRK UHD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/45.ts
-#EXTINF:-1,TR: DISNEY CHANNEL
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/8.ts
-#EXTINF:-1,TR: DREAM TÜRK
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/46.ts
-#EXTINF:-1,TR: FOX HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/2.ts
-#EXTINF:-1,TR: GENC TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/50.ts
-#EXTINF:-1,TR: HABERTURK HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/51.ts
-#EXTINF:-1,TR: HALK TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/53.ts
-#EXTINF:-1,TR: KANAL 7 HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/54.ts
-#EXTINF:-1,TR: KANAL A
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/55.ts
-#EXTINF:-1,TR: KANAL D UHD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/56.ts
-#EXTINF:-1,TR: KON-TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/58.ts
-#EXTINF:-1,TR: KRAL TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/60.ts
-#EXTINF:-1,TR: LALEGUL
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/15.ts
-#EXTINF:-1,TR: MAVI KARADENIZ
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/17.ts
-#EXTINF:-1,TR: MELTEM TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/18.ts
-#EXTINF:-1,TR: MINIKA GO
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/64.ts
-#EXTINF:-1,TR: NTV SPOR HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/65.ts
-#EXTINF:-1,TR: NTV UHD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/66.ts
-#EXTINF:-1,TR: SHOW HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/73.ts
-#EXTINF:-1,TR: SONY TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/74.ts
-#EXTINF:-1,TR: STAR TV HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/75.ts
-#EXTINF:-1,TR: TEVE 2
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/76.ts
-#EXTINF:-1,TR: TGRT HABER
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/79.ts
-#EXTINF:-1,TR: TRT 1 UHD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/82.ts
-#EXTINF:-1,TR: TRT BELGESEL HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/83.ts
-#EXTINF:-1,TR: TRT HABER HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/86.ts
-#EXTINF:-1,TR: TV8 HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/89.ts
-#EXTINF:-1,TR: TV8.5 HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/90.ts
-#EXTINF:-1,TR: ÜLKE TV HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/40.ts
-#EXTINF:-1,TR: VIVA TV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/91.ts
-#EXTINF:-1,TR. FBTV
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/28.ts
-#EXTINF:-1,TR. TRT COCUK HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/29.ts
-#EXTINF:-1,TR. TRT SPOR HD
-http://217.23.4.64:55555/live/GU2bZM8sox/XXHSwds3pV/30.ts
-#EXTINF:-1,TR: SHOW MAX
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/272.ts
-#EXTINF:-1,KON TV
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/247.ts
-#EXTINF:-1,TR: A SPOR HD
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/151.ts
-#EXTINF:-1,TR: A HABER HD
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/150.ts
-#EXTINF:-1,TR: NTV EURO
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/126.ts
-#EXTINF:-1,TR: Teve2 HD TURKEY
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/125.ts
-#EXTINF:-1,TR: Fox Tv HD
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/68.ts
-#EXTINF:-1,TR: KRAL POP TV
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/121.ts
-#EXTINF:-1,TR: EURO STAR HD Turkey
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/65.ts
-#EXTINF:-1,TR: Atv Avrupa Turkey
-http://37.187.159.95:59695/live/Enigma2/OK4rrMmdn4/64.ts
-#EXTINF:-1,------ UK-GB ------
+#EXTINF:-1,bbc one
+http://185.62.86.6:8081/hls/bbcone.m3u8
 #EXTINF:-1,bbc two
 http://185.62.86.6:8081/hls/bbctwo.m3u8
+#EXTINF:-1,itv
+http://185.62.86.6:8081/hls/itv.m3u8
 #EXTINF:-1,channel 4
 http://185.62.86.6:8081/hls/channel4.m3u8
 #EXTINF:-1,channel 5
 http://185.62.86.6:8081/hls/channel5.m3u8
+#EXTINF:-1,itv 2
+http://185.62.86.6:8081/hls/itv2.m3u8
 #EXTINF:-1,bbc four
 http://185.62.86.6:8081/hls/bbcfour.m3u8
-#EXTINF:-1,UK: SKY SPORTS 2
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1841.ts
-#EXTINF:-1,UK: Eurosport 1
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3856.ts
-#EXTINF:-1,UK: EUROSPORT 2
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2660.ts
-#EXTINF:-1,UK: NickToons
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3867.ts
-#EXTINF:-1,UK: Sky Arts
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3836.ts
-#EXTINF:-1,UK: SKY 2
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2166.ts
-#EXTINF:-1,UK: True Movies 2
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2436.ts
-#EXTINF:-1,UK: Sky Cinema Action & Adventure
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1427.ts
-#EXTINF:-1,UK: Sky Cinema Comedy
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1426.ts
-#EXTINF:-1,UK: Sky Cinema Disney
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1424.ts
-#EXTINF:-1,UK: Sky Cinema Drama & Romance
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2097.ts
-#EXTINF:-1,UK: Sky Cinema Family
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1422.ts
-#EXTINF:-1,UK: Sky Cinema Premiere
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1420.ts
-#EXTINF:-1,UK: Sky Cinema SciFi & Horror
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1419.ts
-#EXTINF:-1,UK: Sky Cinema Select
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2096.ts
-#EXTINF:-1,UK: Sky Cinema Crime & Thriller
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1416.ts
-#EXTINF:-1,UK: RTE ONE
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2435.ts
-#EXTINF:-1,UK: RTE TWO
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3528.ts
-#EXTINF:-1,UK: More4
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3838.ts
-#EXTINF:-1,UK: MTV Classic
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3850.ts
-#EXTINF:-1,UK: MTV Music
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3849.ts
-#EXTINF:-1,UK: Nat Geo
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3862.ts
-#EXTINF:-1,UK: Nat Geo Wild
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3863.ts
-#EXTINF:-1,UK: Film 4
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3846.ts
-#EXTINF:-1,UK: FOX NEWS
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/5047.ts
-#EXTINF:-1,UK: GOLD
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/5051.ts
-#EXTINF:-1,UK: History
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3865.ts
-#EXTINF:-1,UK: Home
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3809.ts
-#EXTINF:-1,UK: Investigation Discovery
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3864.ts
-#EXTINF:-1,UK: CBS Action
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3823.ts
-#EXTINF:-1,UK: CBS Drama
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3824.ts
-#EXTINF:-1,UK: CBS Reality
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2433.ts
-#EXTINF:-1,UK: Channel 4 HD
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3820.ts
-#EXTINF:-1,UK: Comedy Central
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1445.ts
-#EXTINF:-1,UK: Comedy Extra
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/5048.ts
-#EXTINF:-1,UK: Discovery Science
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3861.ts
-#EXTINF:-1,UK: Discovery Shed
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2893.ts
-#EXTINF:-1,UK: Discovery History
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2099.ts
-#EXTINF:-1,UK: Discovery Turbo
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/2100.ts
-#EXTINF:-1,UK: Disney Ch HD
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3440.ts
-#EXTINF:-1,UK: 3e
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3830.ts
-#EXTINF:-1,UK: CBBC HD
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3832.ts
-#EXTINF:-1,UK: Animal planet
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3473.ts
-#EXTINF:-1,UK: BBC News
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/3858.ts
-#EXTINF:-1,UK: BBC2 HD
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1436.ts
-#EXTINF:-1,UK: BBC3/CBBC HD
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1435.ts
-#EXTINF:-1,UK: BBC Four
-http://dmtn-iptv.com:8080/live/158.69.227/SQQmlii/1434.ts
-#EXTINF:-1,---Sky Italia---
-#EXTINF:-1,Rai 1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1210.ts
-#EXTINF:-1,Rai 2 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1176.ts
-#EXTINF:-1,Rai 3 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1177.ts
-#EXTINF:-1,Rete 4
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1178.ts
-#EXTINF:-1,Rai 4
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1072.ts
-#EXTINF:-1,Rai 5
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1465.ts
-#EXTINF:-1,Canale 5 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1179.ts
-#EXTINF:-1,Italia 1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/2587.ts
-#EXTINF:-1,La7
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1181.ts
-#EXTINF:-1,MTV Next HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1068.ts
-#EXTINF:-1,---Cinema---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1027.ts
-#EXTINF:-1,Sky Cinema 1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1028.ts
-#EXTINF:-1,Sky Cinema 1 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1029.ts
-#EXTINF:-1,Sky Cinema +1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1030.ts
-#EXTINF:-1,Sky Cinema +1 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1508.ts
-#EXTINF:-1,Sky Cinema +24 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1032.ts
-#EXTINF:-1,Sky Cinema +24 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1031.ts
-#EXTINF:-1,Sky Cinema Hits HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1036.ts
-#EXTINF:-1,Sky Cinema Hits SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1037.ts
-#EXTINF:-1,Sky Cinema Family HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1033.ts
-#EXTINF:-1,Sky Cinema Family SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1034.ts
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1035.ts
-#EXTINF:-1,Sky Cinema Family +1 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4921.ts
-#EXTINF:-1,Sky Cinema Comedy HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1041.ts
-#EXTINF:-1,Sky Cinema Comedy SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1042.ts
-#EXTINF:-1,Sky Cinema Max HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1038.ts
-#EXTINF:-1,Sky Cinema Max +1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1040.ts
-#EXTINF:-1,Sky Cinema Cult HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1047.ts
-#EXTINF:-1,Sky Cinema Classics HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1045.ts
-#EXTINF:-1,---Calcio---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1097.ts
-#EXTINF:-1,Sky Supercalcio HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1098.ts
-#EXTINF:-1,Sky Calcio 1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1099.ts
-#EXTINF:-1,Sky Calcio 1 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1461.ts
-#EXTINF:-1,Sky Calcio 2 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1100.ts
-#EXTINF:-1,Sky Calcio 2 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1457.ts
-#EXTINF:-1,Sky Calcio 3 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1101.ts
-#EXTINF:-1,Sky Calcio 3 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1456.ts
-#EXTINF:-1,Sky Calcio 4 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1102.ts
-#EXTINF:-1,Sky Calcio 4 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1500.ts
-#EXTINF:-1,Sky Calcio 5 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1103.ts
-#EXTINF:-1,Sky Calcio 5 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1499.ts
-#EXTINF:-1,Sky Calcio 6 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1104.ts
-#EXTINF:-1,Sky Calcio 6 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1455.ts
-#EXTINF:-1,Sky Calcio 7 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1105.ts
-#EXTINF:-1,Sky Calcio 7 SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1498.ts
-#EXTINF:-1,---Sport---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1081.ts
-#EXTINF:-1,Fox Sports HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1487.ts
-#EXTINF:-1,Fox Sport SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1488.ts
-#EXTINF:-1,Sky Sport 24 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1082.ts
-#EXTINF:-1,Sky Sport 1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1083.ts
-#EXTINF:-1,Sky Sport 2 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1084.ts
-#EXTINF:-1,Sky Sport 3 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1085.ts
-#EXTINF:-1,Sky Sport Plus HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1086.ts
-#EXTINF:-1,Sky Sport F1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1088.ts
-#EXTINF:-1,Sky Sport MotoGP HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1087.ts
-#EXTINF:-1,Sky Sport Moto GP SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1480.ts
-#EXTINF:-1,Bike Channel
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1501.ts
-#EXTINF:-1,Eurosport 1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1089.ts
-#EXTINF:-1,EuroSport 2 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1090.ts
-#EXTINF:-1,Milan channel
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1093.ts
-#EXTINF:-1,Inter Channel
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1323.ts
-#EXTINF:-1,J | Juventus TV
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1095.ts
-#EXTINF:-1,Roma tv
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1326.ts
-#EXTINF:-1,Lazio Channel
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1094.ts
-#EXTINF:-1,---Intrattenimento---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1049.ts
-#EXTINF:-1,Sky Uno HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1051.ts
-#EXTINF:-1,Sky Uno SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4922.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1052.ts
-#EXTINF:-1,Sky Atlantic HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1053.ts
-#EXTINF:-1,Sky Atlantic SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1462.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1054.ts
-#EXTINF:-1,Fox HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1055.ts
-#EXTINF:-1,Fox +1
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1056.ts
-#EXTINF:-1,Fox Life HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1057.ts
-#EXTINF:-1,Fox Life SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4923.ts
-#EXTINF:-1,Fox Life +1
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1058.ts
-#EXTINF:-1,Fox Crime HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1059.ts
-#EXTINF:-1,Fox Crime SD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4924.ts
-#EXTINF:-1,Fox Crime +1
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1060.ts
-#EXTINF:-1,Top Crime
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1324.ts
-#EXTINF:-1,Fox Comedy HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1062.ts
-#EXTINF:-1,CI Crime + Inv HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1777.ts
-#EXTINF:-1,Fox Animation HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1063.ts
-#EXTINF:-1,Comedy Central
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1078.ts
-#EXTINF:-1,Lei
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1075.ts
-#EXTINF:-1,Cielo HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1191.ts
-#EXTINF:-1,Focus
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1489.ts
-#EXTINF:-1,Real Time HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1067.ts
-#EXTINF:-1,Sky Arte HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1107.ts
-#EXTINF:-1,Sky 3D
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1050.ts
-#EXTINF:-1,---Cultura---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1106.ts
-#EXTINF:-1,Pescare & Cacciare TV
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/5790.ts
-#EXTINF:-1,Caccia e Pesca
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1121.ts
-#EXTINF:-1,Discovery HD +1
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4929.ts
-#EXTINF:-1,Nat Geo HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1109.ts
-#EXTINF:-1,NatGeo People HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1110.ts
-#EXTINF:-1,National Geo Wild HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1111.ts
-#EXTINF:-1,Discovery HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1115.ts
-#EXTINF:-1,Discovery Travel
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1113.ts
-#EXTINF:-1,History HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1117.ts
-#EXTINF:-1,Dmax HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1118.ts
-#EXTINF:-1,Gambero Rosso HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1114.ts
-#EXTINF:-1,---Notizie---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1183.ts
-#EXTINF:-1,Sky TG24 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1184.ts
-#EXTINF:-1,TV8
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1069.ts
-#EXTINF:-1,Animal Planet
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1506.ts
-#EXTINF:-1,---Bambini---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1122.ts
-#EXTINF:-1,Masha & Orso Channel
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4941.ts
-#EXTINF:-1,Disney Channel HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1123.ts
-#EXTINF:-1,Disney Channel  +1
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1143.ts
-#EXTINF:-1,Disney Junior
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1141.ts
-#EXTINF:-1,Disney junior  1
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1140.ts
-#EXTINF:-1,Nickelodeon
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1128.ts
-#EXTINF:-1,K2
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1138.ts
-#EXTINF:-1,Boing
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1136.ts
-#EXTINF:-1,---Mediaset Premium---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1173.ts
-#EXTINF:-1,Cartonito
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1134.ts
-#EXTINF:-1,Boomerang
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1135.ts
-#EXTINF:-1,Rai Yoyo
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1125.ts
-#EXTINF:-1,Super
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1124.ts
-#EXTINF:-1,Rai Premium
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1070.ts
-#EXTINF:-1,Rai Movie
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1071.ts
-#EXTINF:-1,---Premium Cinema---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1145.ts
-#EXTINF:-1,Premium Cinema HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1148.ts
-#EXTINF:-1,Premium Cinema +24
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1147.ts
-#EXTINF:-1,Premium Cinema 2 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1146.ts
-#EXTINF:-1,Premium Cinema 2 +24
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1149.ts
-#EXTINF:-1,Premium Energy HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4281.ts
-#EXTINF:-1,Premium Energy +24
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1157.ts
-#EXTINF:-1,Premium Action HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1150.ts
-#EXTINF:-1,Premium Action +24
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1151.ts
-#EXTINF:-1,Premium Crime +24
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1153.ts
-#EXTINF:-1,Premium Joi
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1156.ts
-#EXTINF:-1,Premium Joi +24
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4285.ts
-#EXTINF:-1,Premium Comedy
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1154.ts
-#EXTINF:-1,Premium Emotion
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1158.ts
-#EXTINF:-1,Premium Stories
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1155.ts
-#EXTINF:-1,Premium Stories +24
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/4286.ts
-#EXTINF:-1,---Premium Sport---
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1159.ts
-#EXTINF:-1,Premium Sport HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1160.ts
-#EXTINF:-1,Premium Sport 2 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1470.ts
-#EXTINF:-1,Premium Calcio 1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1162.ts
-#EXTINF:-1,Premium Calcio 1
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1164.ts
-#EXTINF:-1,Premium Calcio 2
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1165.ts
-#EXTINF:-1,Premium Calcio 3
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1166.ts
-#EXTINF:-1,Premium Calcio 4
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1167.ts
-#EXTINF:-1,Premium Calcio 5
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1168.ts
-#EXTINF:-1,Premium Calcio 6
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1169.ts
-#EXTINF:-1,Super Tennis HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1325.ts
-#EXTINF:-1,Sport Italia
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1091.ts
-#EXTINF:-1,Nat Geo Wild  1
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1112.ts
-#EXTINF:-1,Studio Universal
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1073.ts
-#EXTINF:-1,Radio 105
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1469.ts
-#EXTINF:-1,RSI LA 1 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1359.ts
-#EXTINF:-1,RSI LA 2 HD
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1358.ts
-#EXTINF:-1,Mediaset Extra
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1438.ts
-#EXTINF:-1,Mediaset Italia 2
-http://hd.guardatv.eu:8000/live/magsdhfduihufu/ehi74DNbqV/1361.ts
+#EXTINF:-1,itv 3
+http://185.62.86.6:8081/hls/itv3.m3u8
+#EXTINF:-1,pick
+http://185.62.86.6:8081/hls/pick.m3u8
+#EXTINF:-1,dave
+http://185.62.86.6:8081/hls/dave.m3u8	
+#EXTINF:-1,more 4
+http://185.62.86.6:8081/hls/more4.m3u8	
+#EXTINF:-1,film 4
+http://185.62.86.6:8081/hls/film4.m3u8
+#EXTINF:-1,really
+http://185.62.86.6:8081/hls/really.m3u8
+#EXTINF:-1,yesterday
+http://185.62.86.6:8081/hls/yesterday.m3u8
+#EXTINF:-1,drama
+http://185.62.86.6:8081/hls/drama.m3u8
+#EXTINF:-1,itv 4
+http://185.62.86.6:8081/hls/itv4.m3u8
+#EXTINF:-1,5usa
+http://185.62.86.6:8081/hls/5usa.m3u8
+#EXTINF:-1,home
+http://185.62.86.6:8081/hls/home.m3u8
+#EXTINF:-1,itv be
+http://185.62.86.6:8081/hls/itvbe.m3u8
+#EXTINF:-1,e4
+http://185.62.86.6:8081/hls/e4.m3u8
+#EXTINF:-1,5star
+http://185.62.86.6:8081/hls/5star.m3u8
+#EXTINF:-1,spike uk
+http://185.62.86.6:8081/hls/spike.m3u8	
+#EXTINF:-1,sony
+http://185.62.86.6:8081/hls/sonymoviechannel.m3u8	
+#EXTINF:-1,quest
+http://185.62.86.6:8081/hls/quest.m3u8
+#EXTINF:-1,food network
+http://185.62.86.6:8081/hls/foodnetwork.m3u8	
+#EXTINF:-1,challenge
+http://185.62.86.6:8081/hls/challenge.m3u8	
+#EXTINF:-1,4seven
+http://185.62.86.6:8081/hls/4seven.m3u8
+#EXTINF:-1,movie4men
+http://185.62.86.6:8081/hls/movies4men.m3u8	
+#EXTINF:-1,cbsaction
+http://185.62.86.6:8081/hls/cbsaction.m3u8
+#EXTINF:-1,cbsreality
+http://185.62.86.6:8081/hls/cbsreality.m3u8
+#EXTINF:-1,horrorchannel
+http://185.62.86.6:8081/hls/horrorchannel.m3u8
+#EXTINF:-1,yourtv
+http://185.62.86.6:8081/hls/yourtv.m3u8	
+#EXTINF:-1,blaze
+http://185.62.86.6:8081/hls/blaze.m3u8
+#EXTINF:-1,4music
+http://185.62.86.6:8081/hls/4music.m3u8
+#EXTINF:-1,travelchannel
+http://185.62.86.6:8081/hls/travelchannel.m3u8		
+#EXTINF:-1,cbsdrama
+http://185.62.86.6:8081/hls/cbsdrama.m3u8	
+#EXTINF:-1,trytv
+http://185.62.86.6:8081/hls/trutv.m3u8	
+#EXTINF:-1,my5
+http://185.62.86.6:8081/hls/my5.m3u8
